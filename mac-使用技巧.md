@@ -4,7 +4,7 @@
 
 	1. 将一个所在文件夹的任意文件拖入窗口中就可以直接定位
 
-		<img src="https://raw.githubusercontent.com/yijie-yuan-1/typora-figurebed/master/img/20210112145118.gif"/> [mac-使用技巧.md](mac-使用技巧.md) 
+		<img src="https://raw.githubusercontent.com/yijie-yuan-1/typora-figurebed/master/img/20210112145118.gif"/> 
 
 	2. 在搜索窗口寻找文件夹
 
